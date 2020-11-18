@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
  * Reversing the order of characters in each word within a sentence while preserving whitespace and initial word order. 
  */
-public class Imp_ReverseString {
+public class Main_Reverse {
 
 	private static ArrayList<String> sbList;
 	
